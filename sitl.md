@@ -4,12 +4,6 @@ description: Documentation for the OpenRocket Software-in-the-loop extension
 
 # Software-in-the-loop
 
-Directory
-
-1. [Overview]()
-2. [Working with socat]()
-3. [Compiling/Usage]()
-
 ### Overview
 
 The OpenRocket extension is meant to provide the simulation environment for your flight software. While OpenRocket provides several useful events and values, this extension makes use of the following simple outputs:
