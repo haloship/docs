@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-31T14:06:13.987Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/83.0.4103.61 Chrome/83.0.4103.61 Safari/537.36" etag="gEAkdhzPX-d9wax3Hp92" version="13.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-31T14:41:59.360Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/83.0.4103.61 Chrome/83.0.4103.61 Safari/537.36" etag="JkQHQN9KeAB3Ge7u5V-4" version="13.5.7" type="github">
   <diagram id="76Q4s4qqV5ZXUxcZRJFr" name="Page-1">
     <mxGraphModel dx="774" dy="398" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -63,6 +63,18 @@
         </mxCell>
         <mxCell id="sHX7-P6BBiabdB0AWLeR-10" value="Current/Voltage Sensor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="366" y="251" width="96" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="sHX7-P6BBiabdB0AWLeR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.394;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sHX7-P6BBiabdB0AWLeR-18" target="VAtZuYTsF3c0NlVxxPf--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sHX7-P6BBiabdB0AWLeR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.605;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sHX7-P6BBiabdB0AWLeR-18" target="VAtZuYTsF3c0NlVxxPf--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sHX7-P6BBiabdB0AWLeR-18" value="Flash Memory" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="574" y="487" width="118" height="28.78" as="geometry" />
+        </mxCell>
+        <mxCell id="sHX7-P6BBiabdB0AWLeR-21" value="GPS Antenna Connector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="608.005" y="251" width="87.75" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
