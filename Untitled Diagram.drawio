@@ -1,57 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2020-07-31T10:50:53.373Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/83.0.4103.61 Chrome/83.0.4103.61 Safari/537.36" etag="ddy0h3F_bpWsAtJkt3an" version="13.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-31T14:06:13.987Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/83.0.4103.61 Chrome/83.0.4103.61 Safari/537.36" etag="gEAkdhzPX-d9wax3Hp92" version="13.5.7" type="github">
   <diagram id="76Q4s4qqV5ZXUxcZRJFr" name="Page-1">
-    <mxGraphModel dx="774" dy="426" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="774" dy="398" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VAtZuYTsF3c0NlVxxPf--1" value="Navigation and Control Computer&lt;br&gt;(Microcontroller)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="492" y="369" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VAtZuYTsF3c0NlVxxPf--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="VAtZuYTsF3c0NlVxxPf--2" target="VAtZuYTsF3c0NlVxxPf--1" edge="1">
+        <mxCell id="sHX7-P6BBiabdB0AWLeR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="sHX7-P6BBiabdB0AWLeR-5" target="VAtZuYTsF3c0NlVxxPf--1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="457" y="387" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="430" y="337" />
-              <mxPoint x="430" y="384" />
+              <mxPoint x="420" y="439" />
+              <mxPoint x="420" y="431" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sHX7-P6BBiabdB0AWLeR-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="191" y="388" width="98" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="sHX7-P6BBiabdB0AWLeR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="sHX7-P6BBiabdB0AWLeR-3" target="VAtZuYTsF3c0NlVxxPf--1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="309" y="309" />
+              <mxPoint x="309" y="389" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHX7-P6BBiabdB0AWLeR-17" value="&amp;nbsp;I2C&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sHX7-P6BBiabdB0AWLeR-16">
+          <mxGeometry x="0.2711" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHX7-P6BBiabdB0AWLeR-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="191" y="259" width="98" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="VAtZuYTsF3c0NlVxxPf--1" value="Navigation and Control Computer&lt;br&gt;(Microcontroller)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="492" y="369" width="282" height="82" as="geometry" />
         </mxCell>
         <mxCell id="VAtZuYTsF3c0NlVxxPf--2" value="IMU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="292.12" y="317" width="88.38" height="41" as="geometry" />
+          <mxGeometry x="195.81" y="314" width="88.38" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="VAtZuYTsF3c0NlVxxPf--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VAtZuYTsF3c0NlVxxPf--4" target="VAtZuYTsF3c0NlVxxPf--1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="421" y="391" />
-              <mxPoint x="421" y="399" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="VAtZuYTsF3c0NlVxxPf--4" value="Barometer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="196.30999999999995" y="392" width="87.38" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="VAtZuYTsF3c0NlVxxPf--4" value="Altimeter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="292.62" y="369.5" width="87.38" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="VAtZuYTsF3c0NlVxxPf--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="VAtZuYTsF3c0NlVxxPf--7" target="VAtZuYTsF3c0NlVxxPf--1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="426" y="447" />
-              <mxPoint x="426" y="414" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VAtZuYTsF3c0NlVxxPf--7" value="GPS Tracker" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="292.435" y="425" width="87.75" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="sHX7-P6BBiabdB0AWLeR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sHX7-P6BBiabdB0AWLeR-2" target="VAtZuYTsF3c0NlVxxPf--1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="492" y="329" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="448" y="283" />
-              <mxPoint x="448" y="369" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="VAtZuYTsF3c0NlVxxPf--7" value="Temperature" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="196.125" y="442" width="87.75" height="44" as="geometry" />
         </mxCell>
         <mxCell id="sHX7-P6BBiabdB0AWLeR-2" value="Magnetometer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="292.12" y="262" width="88.38" height="41" as="geometry" />
+          <mxGeometry x="195.81" y="265" width="88.38" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="sHX7-P6BBiabdB0AWLeR-4" value="&lt;font style=&quot;font-size: 8px&quot;&gt;9DoF&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="238" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sHX7-P6BBiabdB0AWLeR-6" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Altimeter&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="189" y="369" width="42" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sHX7-P6BBiabdB0AWLeR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sHX7-P6BBiabdB0AWLeR-7" target="VAtZuYTsF3c0NlVxxPf--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sHX7-P6BBiabdB0AWLeR-7" value="GPS Receiver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="489.005" y="251" width="87.75" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="sHX7-P6BBiabdB0AWLeR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.103;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sHX7-P6BBiabdB0AWLeR-10" target="VAtZuYTsF3c0NlVxxPf--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sHX7-P6BBiabdB0AWLeR-10" value="Current/Voltage Sensor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="366" y="251" width="96" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
