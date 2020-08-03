@@ -30,6 +30,10 @@ description: Documentation for the Flight Computer
 
 [INA219](https://www.ti.com/product/INA219?HQS=TI-null-null-digikeymode-df-pf-null-wwe&DCM=yes&distId=10)\([Datasheet](https://www.ti.com/lit/ds/symlink/ina219.pdf?ts=1596310228469&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FINA219%253FHQS%253DTI-null-null-digikeymode-df-pf-null-wwe%2526DCM%253Dyes%2526distId%253D10)\) I2C compatible, max voltage 26, _**and available on JLCPCB**_
 
+### GPS Receiver
+
+SAM-M8Q\(Datasheet\)
+
 
 
 ###  __ 
