@@ -28,13 +28,21 @@ description: Documentation for the Flight Computer
 
 ### Current/Voltage/Power Monitor
 
-[INA219](https://www.ti.com/product/INA219?HQS=TI-null-null-digikeymode-df-pf-null-wwe&DCM=yes&distId=10)\([Datasheet](https://www.ti.com/lit/ds/symlink/ina219.pdf?ts=1596310228469&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FINA219%253FHQS%253DTI-null-null-digikeymode-df-pf-null-wwe%2526DCM%253Dyes%2526distId%253D10)\) I2C compatible, max voltage 26, _**and available on JLCPCB**_
+\_\_[_INA219_](https://www.ti.com/product/INA219?HQS=TI-null-null-digikeymode-df-pf-null-wwe&DCM=yes&distId=10)_\(_[_Datasheet_](https://www.ti.com/lit/ds/symlink/ina219.pdf?ts=1596310228469&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FINA219%253FHQS%253DTI-null-null-digikeymode-df-pf-null-wwe%2526DCM%253Dyes%2526distId%253D10)_\) I2C compatible, max voltage 26, **and available on JLCPCB**_
 
 ### GPS Receiver
 
-SAM-M8Q\(Datasheet\)
+\_\_[_SAM-M8Q_](https://www.u-blox.com/en/product/sam-m8q-module)_\(_[_Datasheet_](https://www.u-blox.com/sites/default/files/SAM-M8Q_DataSheet_%28UBX-16012619%29.pdf)_\) I2C compatible, **and NOT available on JLCPCB**_
 
+### FRAM
 
+\_\_[_MB85RC256V_](https://www.adafruit.com/product/1895)_\(_[_Datasheet_](https://cdn-learn.adafruit.com/assets/assets/000/043/904/original/MB85RC256V-DS501-00017-3v0-E.pdf?1500009796)_\) I2C compatible, 256 K, 1MHz max frequency, **and available on JLCPCB**_
+
+### EEPROM
+
+\_\_[_CAT24C256_](https://www.onsemi.com/products/memory/eeprom-memory/cat24c256)_\(_[_Datasheet_](https://www.onsemi.com/pub/Collateral/CAT24C256-D.PDF)_\) I2C compatible, 256K, 1MHz max frequency, **and available on JLCPCB**_
+
+### Radio Module
 
 ###  __ 
 
