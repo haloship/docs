@@ -6,6 +6,8 @@ description: Documentation for the Flight Computer
 
 ![Block Diagram for Flight Computer](.gitbook/assets/hardware_block_diagram.png)
 
+## Components
+
 ### Microcontroller
 
 [_STM32F415_](https://www.st.com/content/st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-high-performance-mcus/stm32f4-series/stm32f405-415/stm32f415rg.html)_\(_[_Datasheet_](https://www.st.com/resource/en/datasheet/stm32f405vg.pdf)_\) ARM M4 CPU with 1MB Flash and 168MHz clock speed and **available on JLCPCB**_
