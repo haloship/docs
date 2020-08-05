@@ -44,6 +44,8 @@ description: Documentation for the Flight Computer
 
 ### Radio Module
 
+\_\_[_NRF24L01P-R_](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF24-series)_\(_[_Datasheet_](https://datasheet.lcsc.com/szlcsc/Nordic-Semicon-NRF24L01P-R_C8791.pdf)_\) SPI compatible, 2.4GHz ISM band, **and available on JLCPCB**_
+
 ###  __ 
 
 
