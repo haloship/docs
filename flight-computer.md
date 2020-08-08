@@ -4,6 +4,8 @@ description: Documentation for the Flight Computer
 
 # Flight Computer
 
+## Block Diagram
+
 ![Block Diagram for Flight Computer](.gitbook/assets/hardware_block_diagram.png)
 
 ## Components
@@ -38,7 +40,7 @@ description: Documentation for the Flight Computer
 
 ### FRAM
 
-\_\_[_MB85RC256V_](https://www.adafruit.com/product/1895)_\(_[_Datasheet_](https://cdn-learn.adafruit.com/assets/assets/000/043/904/original/MB85RC256V-DS501-00017-3v0-E.pdf?1500009796)_\) I2C compatible, 256 K, 1MHz max frequency, **and available on JLCPCB**_
+\_\_[_MB85RC256V_](https://www.adafruit.com/product/1895)_\(Datasheet\) I2C compatible, 256 K, 1MHz max frequency, **and available on JLCPCB**_
 
 ### EEPROM
 
