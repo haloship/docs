@@ -24,7 +24,7 @@ description: Documentation for the Flight Computer
 
 ### Barometer -- SPI
 
-\_\_[_BMP38_](https://www.bosch-sensortec.com/products/environmental-sensors/pressure-sensors/bmp388/)_8\(_[_Datasheet_](https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmp388-ds001.pdf)_\) 300-1250 hPa **and NOT available on JLCPCB**_
+[_MPL3115A2_](https://www.adafruit.com/product/1893)_\(_[_Datasheet_](https://datasheet.lcsc.com/szlcsc/1904171803_NXP-Semicon-MPL3115A2R1_C54429.pdf)_\) 200-1100 hPa **and available on JLCPCB**_
 
 * Supports I2C & SPI \(3/4 wire\)
 * Input voltage: 1.65V to 3.6V
